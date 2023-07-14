@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sh4_asm", "sh4_asm\sh4_asm.csproj", "{1941FB93-ED4B-44CF-BB05-C77C84F9558B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sh4_disasm", "sh4_disasm\sh4_disasm.csproj", "{91F6459C-A92A-4FED-B31E-3C5A445C8818}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1941FB93-ED4B-44CF-BB05-C77C84F9558B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1941FB93-ED4B-44CF-BB05-C77C84F9558B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1941FB93-ED4B-44CF-BB05-C77C84F9558B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1941FB93-ED4B-44CF-BB05-C77C84F9558B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91F6459C-A92A-4FED-B31E-3C5A445C8818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F6459C-A92A-4FED-B31E-3C5A445C8818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F6459C-A92A-4FED-B31E-3C5A445C8818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F6459C-A92A-4FED-B31E-3C5A445C8818}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CB19091-688C-4237-81BF-476DA18E55D3}
+	EndGlobalSection
+EndGlobal
